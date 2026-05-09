@@ -13,7 +13,7 @@ $darkMode = !empty($settings['dark_mode']);
 <html>
 
 <head>
-    <title>Gym Management</title>
+    <title>Gym Management System</title>
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
