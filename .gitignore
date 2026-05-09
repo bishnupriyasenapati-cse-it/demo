@@ -1,0 +1,4 @@
+videos/*.mov
+*.mp4
+*.zip
+node_modules/
